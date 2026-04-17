@@ -1,6 +1,6 @@
 cask "chessray" do
-  version "0.2.80"
-  sha256 "32dd9d601c8957b77d4a026977409793530efc6906adffe5f4cb25b4897ad6a3"
+  version "0.2.81"
+  sha256 "6503a052ac2bfb50b0f24ec19163e7f2a86d22f8d151d74141e3f42b178030f2"
 
   url "https://github.com/chessraygg/chessray/releases/download/v#{version}/ChessRay-darwin-arm64-#{version}.zip"
   name "ChessRay"
